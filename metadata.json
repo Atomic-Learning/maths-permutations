@@ -1,22 +1,19 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Maths: Permutations",
+    "slug": "maths-permutations",
+    "description": "Introduces the permutation formula P(n,k) = n!/(n-k)! for counting ordered selections of k items from a pool of n items.",
     "authors": [
-        "",
-        ""
+        "chris-cooling",
+        "giorgia-del-missier"
     ],
     "tags": [
-        "",
-        ""
+        "maths"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "maths-factorial"
     ],
     "related": [
-        "",
-        ""
+        "scipy-permutations"
     ]
 }
